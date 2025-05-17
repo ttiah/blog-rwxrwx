@@ -1,9 +1,9 @@
 theme = "cactus"
-baseURL = 'https://ttiah.github.io/blog-rwxrwx/'
+baseURL = 'https://rwxrwx.com/'
 languageCode = 'ko-kr'
-title = 'My New Hugo Site'
+title = '이 세대를 섬기다'
 
-copyright = "You" # cactus will use title if copyright is not set
+copyright = "rwxrwx.com"
 disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
 # googleAnalytics = "UA-1234-5"
 googleAnalytics = ""
@@ -26,10 +26,10 @@ name = "Tags"
 url = "/tags"
 weight = 3
 
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 4
+#[[menu.main]]
+#name = "About"
+#url = "/about"
+#weight = 4
 
 [markup]
   [markup.tableOfContents]
