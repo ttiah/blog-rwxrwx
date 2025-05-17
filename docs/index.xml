@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://ttiah.github.io/blog-rwxrwx/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>이 세대를 섬기다</title>
+    <link>https://rwxrwx.com/</link>
+    <description>Recent content on 이 세대를 섬기다</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
-    <copyright>You</copyright>
+    <copyright>rwxrwx.com</copyright>
     <lastBuildDate>Sat, 17 May 2025 16:45:47 +0900</lastBuildDate>
-    <atom:link href="https://ttiah.github.io/blog-rwxrwx/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rwxrwx.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post2</title>
-      <link>https://ttiah.github.io/blog-rwxrwx/posts/first-post2/</link>
+      <link>https://rwxrwx.com/posts/first-post2/</link>
       <pubDate>Sat, 17 May 2025 16:45:47 +0900</pubDate>
-      <guid>https://ttiah.github.io/blog-rwxrwx/posts/first-post2/</guid>
+      <guid>https://rwxrwx.com/posts/first-post2/</guid>
       <description>&lt;p&gt;첫 글입니다.&lt;br&gt;&#xA;테스트 중입니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;웁쓰&#34;&gt;웁쓰&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ㅁㄴㅇㄹ&lt;/li&gt;&#xA;&lt;li&gt;ㅁㄴㅇㄹ&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;둡쓰&#34;&gt;둡쓰&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;아난아앙&lt;/li&gt;&#xA;&lt;li&gt;민ㄹ이니알&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>First Post</title>
-      <link>https://ttiah.github.io/blog-rwxrwx/posts/first-post/</link>
+      <link>https://rwxrwx.com/posts/first-post/</link>
       <pubDate>Sat, 17 May 2025 16:39:17 +0900</pubDate>
-      <guid>https://ttiah.github.io/blog-rwxrwx/posts/first-post/</guid>
+      <guid>https://rwxrwx.com/posts/first-post/</guid>
       <description>&lt;p&gt;첫 글입니다.&lt;br&gt;&#xA;테스트 중입니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;웁쓰&#34;&gt;웁쓰&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ㅁㄴㅇㄹ&lt;/li&gt;&#xA;&lt;li&gt;ㅁㄴㅇㄹ&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;둡쓰&#34;&gt;둡쓰&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;아난아앙&lt;/li&gt;&#xA;&lt;li&gt;민ㄹ이니알&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
